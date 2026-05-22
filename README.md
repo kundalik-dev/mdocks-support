@@ -58,16 +58,18 @@ Before submitting an issue:
 ## 🌐 Links
 
 - **Website / Web App:** [https://mdocks.dev](https://mdocks.dev)
+- **About Us:** [https://mdocks.dev/about-us](https://mdocks.dev/about-us)
+- **Contact Us:** [https://mdocks.dev/contact-us](https://mdocks.dev/contact-us)
+- **Privacy Policy:** [https://mdocks.dev/privacy-policy](https://mdocks.dev/privacy-policy)
 - **NPM Package:** [@iprep/mdocs on npm](https://www.npmjs.com/package/@iprep/mdocs)
 - **Support & FAQ:** [mDocks Wiki](https://github.com/kundalik-dev/mdocks-support/wiki)
-- **Privacy Policy:** [Privacy Policy](https://github.com/kundalik-dev/mdocks-support/blob/main/PRIVACY.md)
 
 ---
 
 ## 📧 Contact
 
 - **Security issues:** Email <support@mdocks.dev> with the subject "Security Vulnerability"
-- **General inquiries:** Open an issue or start a discussion in this repository
+- **General inquiries:** Visit our [Contact Page](https://mdocks.dev/contact-us), open an issue, or start a discussion in this repository.
 
 ---
 
@@ -82,7 +84,7 @@ Before submitting an issue:
 <div align="center">
   Made with ❤️ by the mDocks Team<br>
   <a href="https://mdocks.dev">Website</a> •
-  <a href="https://github.com/kundalik-dev/mdocks-support/wiki">Support</a> •
-  <a href="https://github.com/kundalik-dev/mdocks-support/issues">Issues</a> •
-  <a href="https://github.com/kundalik-dev/mdocks-support/discussions">Discussions</a>
+  <a href="https://mdocks.dev/about-us">About Us</a> •
+  <a href="https://mdocks.dev/contact-us">Contact</a> •
+  <a href="https://mdocks.dev/privacy-policy">Privacy</a>
 </div>
