@@ -1,6 +1,6 @@
-# mDocs Support
+# mDocks Support
 
-Official bug tracker and feature request hub for **mDocs** - a powerful, local-first Markdown reader and GitHub repository browser.
+Official bug tracker and feature request hub for **mDocks** - a powerful, local-first Markdown reader and GitHub repository browser.
 
 [![NPM Version](https://img.shields.io/npm/v/@iprep/mdocs?label=NPM&style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@iprep/mdocs)
 [![NPM Downloads](https://img.shields.io/npm/dw/@iprep/mdocs?label=Downloads&style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@iprep/mdocs)
@@ -9,13 +9,13 @@ Official bug tracker and feature request hub for **mDocs** - a powerful, local-f
 
 ---
 
-## 🚀 What is mDocs?
+## 🚀 What is mDocks?
 
-**mDocs** is a modern, privacy-focused, local-first Markdown viewer. It allows you to read your local markdown documents, directories, and synchronized GitHub repositories seamlessly. Your documents are processed entirely locally and never leave your machine.
+**mDocks** is a modern, privacy-focused, local-first Markdown viewer. It allows you to read your local markdown documents, directories, and synchronized GitHub repositories seamlessly. Your documents are processed entirely locally and never leave your machine.
 
 It features three primary workspace modes:
 1. 📁 **Browser Files** - Open local folders and files directly in your web browser using the File System Access API (no installation required, Chromium-only).
-2. 💻 **Local Server** - Connect to a local helper server via `mdocks start` or `npx @iprep/mdocs start` running on `127.0.0.1:5540` to clone, sync, and browse whole GitHub repositories.
+2. 💻 **Local Server** - Connect to a local helper server via `mdocs start` or `npx @iprep/mdocs start` running on `127.0.0.1:5540` to clone, sync, and browse whole GitHub repositories.
 3. ✨ **Demo Docs** - Explore pre-bundled interactive markdown documentation directly inside the viewer.
 
 ---
@@ -30,7 +30,7 @@ Found a bug with the viewer, file tree, or local server? Let us know!
 
 ## ✨ Request a Feature
 
-Have an idea to make mDocs even better? We love community ideas!
+Have an idea to make mDocks even better? We love community ideas!
 
 **[Request Feature →](https://github.com/kundalik-dev/mdocks-support/issues/new?template=feature_request.yml)**
 
@@ -59,7 +59,7 @@ Before submitting an issue:
 
 - **Website / Web App:** [https://mdocks.dev](https://mdocks.dev)
 - **NPM Package:** [@iprep/mdocs on npm](https://www.npmjs.com/package/@iprep/mdocs)
-- **Support & FAQ:** [mDocs Wiki](https://github.com/kundalik-dev/mdocks-support/wiki)
+- **Support & FAQ:** [mDocks Wiki](https://github.com/kundalik-dev/mdocks-support/wiki)
 - **Privacy Policy:** [Privacy Policy](https://github.com/kundalik-dev/mdocks-support/blob/main/PRIVACY.md)
 
 ---
@@ -71,16 +71,16 @@ Before submitting an issue:
 
 ---
 
-## ⭐ Enjoying mDocs?
+## ⭐ Enjoying mDocks?
 
 - Leave review feedback or say hello in [Discussions](https://github.com/kundalik-dev/mdocks-support/discussions)
 - Star this repository on GitHub
-- Share mDocs with friends and colleagues
+- Share mDocks with friends and colleagues
 
 ---
 
 <div align="center">
-  Made with ❤️ by the mDocs Team<br>
+  Made with ❤️ by the mDocks Team<br>
   <a href="https://mdocks.dev">Website</a> •
   <a href="https://github.com/kundalik-dev/mdocks-support/wiki">Support</a> •
   <a href="https://github.com/kundalik-dev/mdocks-support/issues">Issues</a> •
